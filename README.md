@@ -1,4 +1,4 @@
-# 💫 About Me:<br><h1 align="center">Hi 👋, I'm Ayush Pant</h1><br>- 🌱 I’m currently mastering **Backend, System Design**<br><br>- 👨‍💻 All of my projects are available at https://ayushpant.vercel.app<br><br>- 📫 How to reach me **ayushpant2073@gmail.com**
+# 💫 About Me:<br><h1 align="center">Hi 👋, I'm Ayush Pant</h1><br>- 🌱 I’m mastering **Backend, System Design**<br><br>- 👨‍💻 All of my projects are available at https://ayushpant.vercel.app<br><br>- 📫 How to reach me **ayushpant2073@gmail.com**
 
 
 ## 🌐 Socials:
