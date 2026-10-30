@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Backend+Engineer;Frontend+Developer;System+Design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=61DAFB&center=true&vCenter=true&width=600&lines=Backend+Engineer;Frontend+Developer;System+Design" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 ---
 
 ## 💫 About Me
-- 🌱 I'm mastering **Backend, System Design**
+- 🌱 Mastering **Backend, System Design**
 - 👨‍💻 All of my projects are available at [ayushpant.vercel.app](https://ayushpant.vercel.app)
 - 📫 Reach me at **ayushpant2073@gmail.com**
 
