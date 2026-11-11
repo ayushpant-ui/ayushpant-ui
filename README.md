@@ -6,9 +6,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayushpant-ui&color=blueviolet&style=flat" alt="Profile views" />
-</p>
+</p> -->
 
 ---
 
